@@ -1,0 +1,15 @@
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/bin/Debug/net7.0/ExchangeClient
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/bin/Debug/net7.0/ExchangeClient.deps.json
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/bin/Debug/net7.0/ExchangeClient.runtimeconfig.json
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/bin/Debug/net7.0/ExchangeClient.dll
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/bin/Debug/net7.0/ExchangeClient.pdb
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/obj/Debug/net7.0/ExchangeClient.csproj.AssemblyReference.cache
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/obj/Debug/net7.0/ExchangeClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/obj/Debug/net7.0/ExchangeClient.AssemblyInfoInputs.cache
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/obj/Debug/net7.0/ExchangeClient.AssemblyInfo.cs
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/obj/Debug/net7.0/ExchangeClient.csproj.CoreCompileInputs.cache
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/obj/Debug/net7.0/ExchangeClient.dll
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/obj/Debug/net7.0/refint/ExchangeClient.dll
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/obj/Debug/net7.0/ExchangeClient.pdb
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/obj/Debug/net7.0/ExchangeClient.genruntimeconfig.cache
+/home/diwanshu/books/Company Project/betacrew_exchange_server/betacrew_exchange_server/ExchangeClient/obj/Debug/net7.0/ref/ExchangeClient.dll

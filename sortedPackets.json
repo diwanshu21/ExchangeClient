@@ -1,0 +1,93 @@
+[
+  {
+    "Symbol": "AAPL",
+    "BuySellIndicator": "B",
+    "Quantity": 838860800,
+    "Price": 1677721600,
+    "PacketSequence": 16777216
+  },
+  {
+    "Symbol": "AAPL",
+    "BuySellIndicator": "B",
+    "Quantity": 503316480,
+    "Price": 1644167168,
+    "PacketSequence": 33554432
+  },
+  {
+    "Symbol": "AAPL",
+    "BuySellIndicator": "S",
+    "Quantity": 335544320,
+    "Price": 1694498816,
+    "PacketSequence": 50331648
+  },
+  {
+    "Symbol": "AAPL",
+    "BuySellIndicator": "S",
+    "Quantity": 167772160,
+    "Price": 1711276032,
+    "PacketSequence": 67108864
+  },
+  {
+    "Symbol": "META",
+    "BuySellIndicator": "B",
+    "Quantity": 671088640,
+    "Price": 838860800,
+    "PacketSequence": 83886080
+  },
+  {
+    "Symbol": "META",
+    "BuySellIndicator": "S",
+    "Quantity": 503316480,
+    "Price": 922746880,
+    "PacketSequence": 100663296
+  },
+  {
+    "Symbol": "META",
+    "BuySellIndicator": "S",
+    "Quantity": 335544320,
+    "Price": 956301312,
+    "PacketSequence": 117440512
+  },
+  {
+    "Symbol": "MSFT",
+    "BuySellIndicator": "B",
+    "Quantity": 419430400,
+    "Price": -1778384896,
+    "PacketSequence": 134217728
+  },
+  {
+    "Symbol": "MSFT",
+    "BuySellIndicator": "S",
+    "Quantity": 251658240,
+    "Price": -1694498816,
+    "PacketSequence": 150994944
+  },
+  {
+    "Symbol": "MSFT",
+    "BuySellIndicator": "B",
+    "Quantity": 335544320,
+    "Price": -1811939328,
+    "PacketSequence": 167772160
+  },
+  {
+    "Symbol": "AMZN",
+    "BuySellIndicator": "B",
+    "Quantity": 167772160,
+    "Price": -1207238656,
+    "PacketSequence": 184549376
+  },
+  {
+    "Symbol": "AMZN",
+    "BuySellIndicator": "B",
+    "Quantity": 83886080,
+    "Price": -1224015872,
+    "PacketSequence": 201326592
+  },
+  {
+    "Symbol": "AMZN",
+    "BuySellIndicator": "S",
+    "Quantity": 251658240,
+    "Price": -871694336,
+    "PacketSequence": 218103808
+  }
+]
